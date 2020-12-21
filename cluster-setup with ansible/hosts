@@ -1,0 +1,6 @@
+[master]
+ip_address
+
+[worker]
+ip1
+ip2

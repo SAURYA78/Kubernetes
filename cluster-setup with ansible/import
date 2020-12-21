@@ -1,0 +1,4 @@
+---
+- import_playbook: pre_requisite.yml
+- import_playbook: all_nodes.yml
+- import_playbook: master_node.yml
